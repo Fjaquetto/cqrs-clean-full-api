@@ -13,11 +13,9 @@ namespace Teste.BancoMaster.CC.Bus
     public sealed class InMemoryBus : IMediatorHandler
     {
         private readonly IMediator _mediator;
-        //private readonly IEventStore _eventStore;
 
         public InMemoryBus( IMediator mediator)
         {
-            //_eventStore = eventStore;
             _mediator = mediator;
         }
 
@@ -28,9 +26,6 @@ namespace Teste.BancoMaster.CC.Bus
 
         public Task RaiseEvent<T>(T @event) where T : Event
         {
-            //if (!@event.MessageType.Equals("DomainNotification"))
-            //    _eventStore?.Save(@event);
-
             return _mediator.Publish(@event);
         }
     }

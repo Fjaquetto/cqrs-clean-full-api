@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPkCOcR06frwrtOrujoWER5H6a3R9hXEYRp7lEXh33c744VOe491Ehe4tOYFEpYktDnEFX89HrFr+iyPznnTFQ==",
+  "dgSpecHash": "5nUs5FYAOO3kkK/KELtUTn67yOo+BShnpce6wrs3p+IpWx+2P4E7cV7z88TXEbMw+SdwX6WroCJigQDvJyoOtg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
+  "projectFilePath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ddk\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Ddk\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",

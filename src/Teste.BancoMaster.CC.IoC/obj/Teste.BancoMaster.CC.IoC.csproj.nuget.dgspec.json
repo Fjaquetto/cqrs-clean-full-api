@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj": {}
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
         "projectName": "Teste.BancoMaster.Application",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj",
         "projectName": "Teste.BancoMaster.CC.Bus",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
         "projectName": "Teste.BancoMaster.CC.IoC",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\Teste.BancoMaster.CC.IoC.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.IoC\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj"
               },
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.CC.Bus\\Teste.BancoMaster.CC.Bus.csproj"
               },
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
         "projectName": "Teste.BancoMaster.Domain.Core",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -266,14 +266,14 @@
         }
       }
     },
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
         "projectName": "Teste.BancoMaster.Domain",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -290,8 +290,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj"
               }
             }
           }
@@ -334,14 +334,14 @@
         }
       }
     },
-    "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
+    "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj",
         "projectName": "Teste.BancoMaster.Infra.Data",
-        "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj",
+        "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\obj\\",
+        "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -358,8 +358,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj"
+              "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj"
               }
             }
           }

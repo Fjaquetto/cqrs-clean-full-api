@@ -12,7 +12,6 @@ namespace Teste.BancoMaster.Infra.Data.Repository
         public async Task<List<Rota>> AdicionarRotas(List<Rota> rotas)
         {
             DbSet.AddRange(rotas);
-            await SaveChanges();
 
             return rotas;
         }

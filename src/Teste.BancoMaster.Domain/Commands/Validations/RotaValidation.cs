@@ -6,22 +6,22 @@ namespace Teste.BancoMaster.Domain.Commands.Validations
     {
         protected void ValidateId()
         {
-            RuleFor(x => x.Id)
-                .NotEmpty();
+            RuleFor(x => x.Id);
+
         }
 
         protected void ValidateOrigem()
         {
             RuleFor(c => c.Origem)
-                .NotEmpty().WithMessage("")
-                .Length(3, 3).WithMessage("");
+                .NotEmpty()
+                .Length(3, 3).WithMessage("3 caracteres.");
         }
 
         protected void ValidateDestino()
         {
             RuleFor(c => c.Destino)
-                .NotEmpty().WithMessage("")
-                .Length(3, 3).WithMessage("");
+                .NotEmpty()
+                .Length(3, 3).WithMessage("3 caracteres.");
         }
 
         protected void ValidateValor()

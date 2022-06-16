@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROy/a18yWb2rEwOEJu8+/q5Q4EjFrv0XoEI3N01PWoulsz2SH0bwudZ445+8ATY2CZftzdxLRMtnswIyDMmhAA==",
+  "dgSpecHash": "bO70ITkEvM5xA8XyMllman9lVeMpqGhjL+g8N6ur9kAS7UZkdATYAeI+L1BPckTnkVLly9kChesCqR3+FIPoGA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
+  "projectFilePath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ddk\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
     "C:\\Users\\Ddk\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

@@ -1940,11 +1940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
+      "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
       "projectName": "Teste.BancoMaster.Application",
-      "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
+      "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\Teste.BancoMaster.Application.csproj",
       "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Application\\obj\\",
+      "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1961,8 +1961,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
-              "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
+            "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj": {
+              "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Infra.Data\\Teste.BancoMaster.Infra.Data.csproj"
             }
           }
         }

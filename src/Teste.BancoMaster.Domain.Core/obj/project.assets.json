@@ -99,11 +99,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
       "projectName": "Teste.BancoMaster.Domain.Core",
-      "projectPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
+      "projectPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\Teste.BancoMaster.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\Ddk\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain.Core\\obj\\",
+      "outputPath": "C:\\Projetos\\cqrs-clean-full-api\\src\\Teste.BancoMaster.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ddk\\AppData\\Roaming\\NuGet\\NuGet.Config",
