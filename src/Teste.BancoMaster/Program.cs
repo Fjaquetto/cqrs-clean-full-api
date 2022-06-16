@@ -14,8 +14,6 @@ builder.Services.AddDatabaseSetup(builder.Configuration);
 builder.Services.AddMediatR(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddDependencyInjectionSetup();
 
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
