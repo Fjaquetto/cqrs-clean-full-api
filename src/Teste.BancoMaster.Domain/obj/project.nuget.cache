@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROy/a18yWb2rEwOEJu8+/q5Q4EjFrv0XoEI3N01PWoulsz2SH0bwudZ445+8ATY2CZftzdxLRMtnswIyDMmhAA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Teste.BancoMaster\\src\\Teste.BancoMaster.Domain\\Teste.BancoMaster.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ddk\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
+    "C:\\Users\\Ddk\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Ddk\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

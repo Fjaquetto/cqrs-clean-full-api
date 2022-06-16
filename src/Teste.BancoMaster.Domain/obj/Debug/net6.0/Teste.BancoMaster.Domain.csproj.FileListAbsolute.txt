@@ -1,0 +1,15 @@
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\bin\Debug\net6.0\Teste.BancoMaster.Domain.deps.json
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\bin\Debug\net6.0\Teste.BancoMaster.Domain.dll
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\bin\Debug\net6.0\Teste.BancoMaster.Domain.pdb
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.AssemblyInfo.cs
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.dll
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\refint\Teste.BancoMaster.Domain.dll
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.pdb
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\ref\Teste.BancoMaster.Domain.dll
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\bin\Debug\net6.0\Teste.BancoMaster.Domain.Core.dll
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\bin\Debug\net6.0\Teste.BancoMaster.Domain.Core.pdb
+C:\Projetos\Teste.BancoMaster\src\Teste.BancoMaster.Domain\obj\Debug\net6.0\Teste.BancoMaster.Domain.csproj.CopyComplete

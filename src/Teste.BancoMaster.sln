@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{3A7ADA1F-A124-49DB-802E-38A4216A51F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{44B1DB9F-7053-4947-B798-5214258782AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{2549A6A2-FC81-4B3B-A6A6-0B3E7C784B54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{B55DA4C3-E78F-4F95-BC30-DC57356CF901}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{22AC17FA-1039-4C86-8BD5-18C6E7CC6210}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.Application", "Teste.BancoMaster.Application\Teste.BancoMaster.Application.csproj", "{49F56DA5-8917-492F-A1D0-E57E46A1A1FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.Domain", "Teste.BancoMaster.Domain\Teste.BancoMaster.Domain.csproj", "{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{A98685D8-82A4-47D1-BD9A-D81EA143DB26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.Infra.Data", "Teste.BancoMaster.Infra.Data\Teste.BancoMaster.Infra.Data.csproj", "{5A073819-94C5-4BE0-BD5F-87F808618651}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{EA6F4CD9-D3AC-4A8D-88CA-662322045341}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.CC.IoC", "Teste.BancoMaster.CC.IoC\Teste.BancoMaster.CC.IoC.csproj", "{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.Application.API", "Teste.BancoMaster\Teste.BancoMaster.Application.API.csproj", "{7790F662-A2E5-4EF6-B465-C181A4E5037D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste.BancoMaster.CC.Bus", "Teste.BancoMaster.CC.Bus\Teste.BancoMaster.CC.Bus.csproj", "{B9456F1F-542C-41E4-A39D-412B321947EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste.BancoMaster.Domain.Core", "Teste.BancoMaster.Domain.Core\Teste.BancoMaster.Domain.Core.csproj", "{241E0F84-642E-4B68-A69E-F2E04A3E7BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F56DA5-8917-492F-A1D0-E57E46A1A1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F56DA5-8917-492F-A1D0-E57E46A1A1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F56DA5-8917-492F-A1D0-E57E46A1A1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F56DA5-8917-492F-A1D0-E57E46A1A1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A073819-94C5-4BE0-BD5F-87F808618651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A073819-94C5-4BE0-BD5F-87F808618651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A073819-94C5-4BE0-BD5F-87F808618651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A073819-94C5-4BE0-BD5F-87F808618651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7790F662-A2E5-4EF6-B465-C181A4E5037D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7790F662-A2E5-4EF6-B465-C181A4E5037D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7790F662-A2E5-4EF6-B465-C181A4E5037D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7790F662-A2E5-4EF6-B465-C181A4E5037D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9456F1F-542C-41E4-A39D-412B321947EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9456F1F-542C-41E4-A39D-412B321947EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9456F1F-542C-41E4-A39D-412B321947EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9456F1F-542C-41E4-A39D-412B321947EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241E0F84-642E-4B68-A69E-F2E04A3E7BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241E0F84-642E-4B68-A69E-F2E04A3E7BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241E0F84-642E-4B68-A69E-F2E04A3E7BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241E0F84-642E-4B68-A69E-F2E04A3E7BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49F56DA5-8917-492F-A1D0-E57E46A1A1FA} = {2549A6A2-FC81-4B3B-A6A6-0B3E7C784B54}
+		{2C1CD8E8-25E1-4B5D-972C-86718C15C2B0} = {B55DA4C3-E78F-4F95-BC30-DC57356CF901}
+		{A98685D8-82A4-47D1-BD9A-D81EA143DB26} = {22AC17FA-1039-4C86-8BD5-18C6E7CC6210}
+		{5A073819-94C5-4BE0-BD5F-87F808618651} = {A98685D8-82A4-47D1-BD9A-D81EA143DB26}
+		{EA6F4CD9-D3AC-4A8D-88CA-662322045341} = {22AC17FA-1039-4C86-8BD5-18C6E7CC6210}
+		{46ECFD8B-F00C-44DE-8E70-5AB7C4EB44C1} = {EA6F4CD9-D3AC-4A8D-88CA-662322045341}
+		{7790F662-A2E5-4EF6-B465-C181A4E5037D} = {44B1DB9F-7053-4947-B798-5214258782AF}
+		{B9456F1F-542C-41E4-A39D-412B321947EA} = {EA6F4CD9-D3AC-4A8D-88CA-662322045341}
+		{241E0F84-642E-4B68-A69E-F2E04A3E7BC1} = {B55DA4C3-E78F-4F95-BC30-DC57356CF901}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F20B5BA-D6A7-4901-9619-1A8223C56A95}
+	EndGlobalSection
+EndGlobal
