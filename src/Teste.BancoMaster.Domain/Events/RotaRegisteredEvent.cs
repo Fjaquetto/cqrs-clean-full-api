@@ -2,7 +2,7 @@
 
 namespace Teste.BancoMaster.Domain.Events
 {
-    public class RotaRegisteredEvent : Event
+    public class RotaRegisteredEvent : IntegrationEvent
     {
         public RotaRegisteredEvent(int id, string origem, string destino, decimal valor)
         {

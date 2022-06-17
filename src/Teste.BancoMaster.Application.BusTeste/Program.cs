@@ -1,7 +1,3 @@
-using MediatR;
-using Teste.BancoMaster.Application.API.Config;
-using Teste.BancoMaster.Services.API.Config;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -10,12 +6,6 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddAutoMapperSetup();
-builder.Services.AddDatabaseSetup(builder.Configuration);
-builder.Services.AddMediatR(AppDomain.CurrentDomain.GetAssemblies());
-builder.Services.AddDependencyInjectionSetup();
-builder.Services.AddMessageBusConfiguration(builder.Configuration);
-
 
 var app = builder.Build();
 

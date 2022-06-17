@@ -9,10 +9,16 @@
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.0.3" />
     <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Teste.BancoMaster.CC.Bus\Teste.BancoMaster.CC.Bus.csproj" />
     <ProjectReference Include="..\Teste.BancoMaster.Domain.Core\Teste.BancoMaster.Domain.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Queries\" />
   </ItemGroup>
 
 </Project>
