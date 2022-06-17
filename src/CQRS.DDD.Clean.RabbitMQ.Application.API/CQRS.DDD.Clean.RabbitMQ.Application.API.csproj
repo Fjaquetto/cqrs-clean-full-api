@@ -25,8 +25,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste.BancoMaster.Application\Teste.BancoMaster.Application.csproj" />
     <ProjectReference Include="..\Teste.BancoMaster.CC.IoC\Teste.BancoMaster.CC.IoC.csproj" />
+    <ProjectReference Include="..\CQRS.DDD.Clean.RabbitMQ.Application\CQRS.DDD.Clean.RabbitMQ.Application.csproj" />
   </ItemGroup>
 
 </Project>
