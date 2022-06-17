@@ -13,12 +13,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste.BancoMaster.Domain.Core\Teste.BancoMaster.Domain.Core.csproj" />
-    <ProjectReference Include="..\CQRS.DDD.Clean.RabbitMQ.CC.Bus\CQRS.DDD.Clean.RabbitMQ.CC.Bus.csproj" />
+    <Folder Include="Queries\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Queries\" />
+    <ProjectReference Include="..\Teste.BancoMaster.Domain.Core\Teste.BancoMaster.Domain.Core.csproj" />
+    <ProjectReference Include="..\CQRS.DDD.Clean.RabbitMQ.CC.Bus\CQRS.DDD.Clean.RabbitMQ.CC.Bus.csproj" />
   </ItemGroup>
 
 </Project>

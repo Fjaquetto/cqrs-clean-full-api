@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste.BancoMaster.Domain\Teste.BancoMaster.Domain.csproj" />
+    <ProjectReference Include="..\CQRS.DDD.Clean.RabbitMQ.Domain\CQRS.DDD.Clean.RabbitMQ.Domain.csproj" />
   </ItemGroup>
 
 </Project>
