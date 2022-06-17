@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste.BancoMaster.CC.Bus\Teste.BancoMaster.CC.Bus.csproj" />
     <ProjectReference Include="..\Teste.BancoMaster.Domain.Core\Teste.BancoMaster.Domain.Core.csproj" />
+    <ProjectReference Include="..\CQRS.DDD.Clean.RabbitMQ.CC.Bus\CQRS.DDD.Clean.RabbitMQ.CC.Bus.csproj" />
   </ItemGroup>
 
   <ItemGroup>
